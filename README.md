@@ -1,2 +1,2 @@
 # my-note
-vue+vuex make a todoList
+vue+vuex make a myNote
